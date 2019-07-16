@@ -21,3 +21,5 @@ etc.
 ================================================================
 
 
+NOTE : the "student.csv" available in this project contains random data available from https://catalog.data.gov/dataset/sat-results-e88d7
+
