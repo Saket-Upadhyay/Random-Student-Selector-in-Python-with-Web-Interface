@@ -1,1 +1,2 @@
-web: sudo python3 ./RandomStudentSelector.py
+heroku ps:scale web=1
+web: python3 ./RandomStudentSelector.py
