@@ -1,1 +1,1 @@
-web: python3 ./RandomStudentSelector.py
+web: sudo python3 ./RandomStudentSelector.py
