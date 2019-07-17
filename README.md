@@ -26,3 +26,19 @@ etc.
 
 NOTE : the "student.csv" available in this project contains random data available from https://catalog.data.gov/dataset/sat-results-e88d7
 
+
+#TODO
+
+1. Change in logic so that it does not show 'dots'(...) when user is in 'done' set 
+
+2. Add file upload options for user
+
+3. Auto clean uploaded files over time
+
+4. Restrict Upload Extentions to .csv only
+
+5. Create Rank system to display in webapp
+
+6. Create Token system so that students can post their comment live on some side panel of WebInterface
+
+7. Create Android App to control the API 
